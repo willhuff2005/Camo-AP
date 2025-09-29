@@ -10,3 +10,5 @@ Add this below into your ox_inventory/data/weapons
 			durability = 0.1,
 			ammoname = 'ammo-9'
 		},
+
+for more Fivem Custom Weapons go to https://blugocrazy-customz.tebex.io/category/guns
